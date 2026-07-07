@@ -9,6 +9,9 @@ Sou estudante e profissional em formação na área de Desenvolvimento de Softwa
 - Python
 - Java
 - Git e GitHub
+- JavaScript e TypeScript
+- Desenvolvimento de automações
+- Testes e validação de software
 
 ![Python](https://img.shields.io/badge/Python-050FFF?style=for-the-badge&logo=python&logoColor=FFF505)
 ![Java](https://img.shields.io/badge/Java-1E74B7?style=for-the-badge&logo=openjdk&logoColor=B7621E)
@@ -16,7 +19,7 @@ Sou estudante e profissional em formação na área de Desenvolvimento de Softwa
 
 ## 🚀 Foco Atual
 
-Atualmente estou aprendendo Git e GitHub, aprofundando meus conhecimentos em Python, Java e em testes de software (QA).
+Atualmente estou aprendendo Git e GitHub, aprofundando meus conhecimentos em Python, Java e testes de software (QA), além de desenvolver projetos para fortalecer minha experiência prática.
 
 ### 📫 Como me encontrar
 
